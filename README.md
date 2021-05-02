@@ -20,9 +20,9 @@ Let me know if you encounter issues with the calculator
 
 
 
-| Demo | |
-| --- | --- |
-| <img src="https://streamable.com/qbugy0" width="100" height="100">  |
+### Demo 
+
+| <img src="images/Hnet-image (1).gif" width="300" height="600">  |
 
 
 
