@@ -5,7 +5,8 @@ A new Flutter project.
 A Flutter app which gives a push notification whenever a new notification arrives for the given semester at ktu.edu.in, Kerala Technological University's official website.<br/>
 The new announcements could be downloaded in pdf format through the click of a button <br/>
 Enabled Dark mode feature for this app <br/>
-
+</br>
+Api used for this project is [KTU_Notifier_Api](https://github.com/Alleny244/KTU_Notifier_api)
 ## Getting Started
 
 Follow the steps below to run the app on your local machine.
